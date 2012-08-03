@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 .bundle
 db/*.sqlite3
 log/*.log
 tmp/
+=======
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+>>>>>>> f25cbe89b3d5e4f2ec06f6cd5959874de838d45c
