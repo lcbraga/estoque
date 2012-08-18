@@ -1,4 +1,6 @@
 Estoque::Application.routes.draw do
+  resources :pagamentos
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
